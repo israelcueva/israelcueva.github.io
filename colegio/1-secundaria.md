@@ -33,6 +33,6 @@ La presentación de tus tareas es importante. Es la única manera que repases lo
 > **Sesión 17: Elaboro organigramas y diagramas de red**
 13/08/2019
 
-**Actividades:** Realiza en Flash la actividad 4 de la página 55 y la 6 de la página 61. Ambos están en tu libro de actividades.
+**Actividades:** Realiza en Microft Visio la actividad 4 de la página 55 y la 6 de la página 61. Ambos están en tu libro de actividades.
 
 ---
