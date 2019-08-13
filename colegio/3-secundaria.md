@@ -23,21 +23,20 @@ La presentación de tus tareas es importante. Es la única manera que repases lo
 - **En linea:** Puedes presentar tu tarea via correo eletrónico: israel@israelcueva.com o subirlo a través de este [enlace](https://www.dropbox.com/request/QXgTBVKHJXrgIqXMtgUA "Tareas")
 
 
-**A tener en cuenta:** 
-
 ## Módulos
 
 ### Bimestre III - Unidad 5
 
-!> **Examen de la unidad:** [Enlace](https://forms.gle/3EQskdjQMcPQdWUw6 "Enlace")
+!> **Examen de la unidad:** EN desarrollo
 
 ---
 
 > **Sesión 17: Creando una ilustración**
+12/08/2019 - 13/08/2019
 
 **Recursos:** [Enlace](https://1drv.ms/u/s!AqqTiyJZHGaLgfMhaKz6SeHv2Xqvmg?e=IqRK9E "Enlace")
 
-**Actividades:** Debes completar la ilustración en tu casa y presentar la tarea.
+**Actividades:** Debes completar la ilustración en tu casa y presentarlo la próxima clase.
 
 En la primera parte de este bimestre verás las características Ilustrator y como empezar a ilustrar rápidamente, recuerda practicar y realizar el examen adjunto para que estes preparado.
 
@@ -49,15 +48,3 @@ En la primera parte de este bimestre verás las características Ilustrator y co
 6. Recuerda usar las muestras que seleccionaste según lo que deseas pintar (sombras, medios tonos o ilumninación)
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
