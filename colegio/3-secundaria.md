@@ -1,27 +1,44 @@
 # 3 Secundaria
 
-Este ha sido organizado por semanas de aprendizaje, en cada una de ellas encontrarás temas y actividades que debes revisar. ¡Explora! Accede a tus contenidos haciendo click en cada enlace.
+¡Bienvenido! Aquí encontraras los temas a desarrollar cada semana y las actividades que permitiran que tu aprendizaje sea optimo.
 
 ## Programas a instalar
 
 ?> Las versiones a instalar pueden ser CS5, **CS6** o CC.
 
-- Unidad 5: Adobe Ilustrator
-- Unidad 6: Adobe Ilustrator
-- Unidad 7: Adobe Indesign
-- Unidad 8: Adobe Indesign
+- III Bimestre: Unidad 5: Adobe Ilustrator
+- III Bimestre: Unidad 6: Adobe Ilustrator
+- IV Bimestre: Unidad 7: Adobe Indesign
+- IV Bimestre: Unidad 8: Adobe Indesign
 
-## Clases
+## Presentación de tareas
 
-?> Dale click en cada uno para ver su contenido.
+La presentación de tus tareas es importante. Es la única manera que repases lo que has aprendido en clase.
 
+## Módulos
+
+### Bimestre III
+
+#### Unidad 5
+
+#### Sesión 17
 <details>
-<summary>Unidad 5: Clase 1</summary>
+<summary>Creando una ilustración</summary>
 
-- **Grabación:** 
-- **Recursos:** Para esta clase usa esta dos imágenes: ![Dibujo Base](recursos/3-secundaria/dibujo.png "Dibujo Base")
-[ref]: recursos/3-secundaria/dibujo.png
+En la primera parte de este bimestre verás las características Ilustrator y como empezar a ilustrar rápidamente, recuerda practicar y realizar el examen adjunto para que estes preparado.
+
+**Material de estudio:**
+
+?> Recursos: [Enlace](https://1drv.ms/u/s!AqqTiyJZHGaLgfMhaKz6SeHv2Xqvmg?e=IqRK9E "Enlace")
+
+1. Ve al enlace de los recursos y descarga las dos imágenes.
+2. Coloca las dos imágenes en ilustrator (en capas distintas).
+3. Crea una nueva capa(Trazado) y empieza la herramienta pincel(B) a trazar los bordes, usando el dibujo o modelo final como base del calco.
+4. Con la herramienta cuentagotas(I) selecciona los colores de la imagen de muestra y guardalos en el panel muestras.
+5. Crea otra capa(Relleno) y empieza a pintar las areas con la herramienta Pincel de manchas(Shift + B).
 </details>
+
+
 
 ## Exámenes
 
