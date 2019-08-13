@@ -1,4 +1,5 @@
-- [Inicio](README.md)
+- Acerca de
+- Blog
 
 - Colegio
 
@@ -11,6 +12,8 @@
     - [3 Secundaria](colegio/3-secundaria.md)
     - [4 Secundaria](colegio/4-secundaria.md)
     - [5 Secundaria](colegio/5-secundaria.md)
+
+- Otros
 
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md)
