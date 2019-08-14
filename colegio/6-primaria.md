@@ -36,5 +36,4 @@ La presentación de tus tareas es importante. Es la única manera que repases lo
 
 **Actividades:** Realizar los ejercicios para computadora que estan en la página 55 y 58 del libro de actividades.
 
-
 ---
