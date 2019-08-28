@@ -15,7 +15,7 @@
 
 ?> Cuando envies tu tarea en línea, debes tomar en cuenta que el nombre del archivo debe contener el bimestre, la unidad, la sesión , tu primer nombre y tu primer apellido, por ejemplo, si deseas enviar un archivo de word el nombre sería: `IIIBimestre-Unidad5-Sesion17-PepitoPeriquito.docx`
 
-La presentación de tus tareas es importante. Es la única manera que repases lo que has aprendido en clase. Para hacerlo puedes usar algunas de estas 3 formas:
+La presentación de tus tareas es importante. Es la única manera que repases lo que has aprendido en clase. Para hacerlo puedes usar algunas de estas 2 formas:
 
 - **Presencial:** Puedes presentar tu tarea de forma presencial (En clases). Impreso, Disco o USB.
 - **En linea:** Puedes presentar tu tarea via correo eletrónico: israel@israelcueva.com o subirlo a través de este [enlace](https://www.dropbox.com/request/fk77Bgtq0KlkqZ8qwNlB "Tareas")
