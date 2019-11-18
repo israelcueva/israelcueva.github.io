@@ -1,3 +1,0 @@
-# Inicio
-
-> ¡Hola mundo!
